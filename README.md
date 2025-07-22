@@ -16,7 +16,7 @@ The goal is to demonstrate Kotlin programming fundamentals including:
 - Input/output handling in the console
 - Timestamping and state tracking
 
-[Software Demo Video](https://youtu.be/Pt3hEexyZ5Y)
+[Software Demo Video](https://youtu.be/QYZKU1MHWoM)
 
 # Development Environment
 
