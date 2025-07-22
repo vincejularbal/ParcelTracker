@@ -16,14 +16,13 @@ The goal is to demonstrate Kotlin programming fundamentals including:
 - Input/output handling in the console
 - Timestamping and state tracking
 
----
+[Software Demo Video](https://youtu.be/Pt3hEexyZ5Y)
 
-##  Technologies Used
+# Development Environment
 
-- Kotlin (JVM)
-- Standard Library (no external dependencies)
-
----
+* IntelliJ IDEA Community Edition
+* Kotlin (JVM)
+* Standard Library (no external dependencies)
 
 ##  Features
 
@@ -34,6 +33,11 @@ The goal is to demonstrate Kotlin programming fundamentals including:
 - Update parcel location and delivery status  
 - Delete parcels with confirmation prompt  
 - Neatly formatted table display for all records
+
+# Useful Websites
+* [Kotlin Documentation](https://kotlinlang.org/docs/home.html)
+* [JetBrains IntelliJ IDEA Guide](https://www.jetbrains.com/idea/guide/)
+* [Kotlin Playground](https://play.kotlinlang.org/)
 
 ---
 
